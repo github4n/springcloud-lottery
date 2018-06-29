@@ -1,8 +1,12 @@
 
-.gradle
-.idea
-info.mv.db
-info.trace.db
-.idea/vcs.xml
+/.idea
+
+/.gradle
+
+/info.trace.db
+
+/info.mv.db
+
+
 
 

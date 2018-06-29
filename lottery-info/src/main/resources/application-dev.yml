@@ -19,7 +19,7 @@ spring:
     driverClassName: org.h2.Driver
     username: sa
     password: 123
-    data: classpath:import.sql
+#    data: classpath:import.sql
   jpa:
       database-platform: org.hibernate.dialect.H2Dialect
       hibernate:

@@ -37,6 +37,8 @@
 
 
 
+
+
 ###服务消费者开发步骤:
 
 - 1.添加依赖
@@ -107,3 +109,28 @@ eureka:
 
   - application-dev.yml:	开发环境
   - application-prod.yml:  生产环境
+
+- 7.配置开发环境中使用的H2数据库
+
+```
+spring:
+  h2:
+    console:
+      enabled: true
+      settings:
+        web-allow-others: true
+      path: /h2
+  datasource:
+    url: jdbc:h2:file:./info;DB_CLOSE_ON_EXIT=FALSE
+    driverClassName: org.h2.Driver
+    username: sa
+    password: 123
+    data: classpath:import.sql
+  jpa:
+      database-platform: org.hibernate.dialect.H2Dialect
+      hibernate:
+        ddl-auto: update
+```
+
+- 8.resources中添加sql脚本
+  - import.sql
