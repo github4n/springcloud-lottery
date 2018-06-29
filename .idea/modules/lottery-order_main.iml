@@ -20,8 +20,8 @@
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-netflix-core:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.h2database:h2:1.4.197" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-aop:2.0.3.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-jdbc:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: mysql:mysql-connector-java:5.1.46" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-jdbc:2.0.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-archaius:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-starter:2.0.0.RELEASE" level="project" />

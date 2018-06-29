@@ -1,5 +1,5 @@
 server:
-  port: 80
+  port: 8081
   context-path: /info
 
 eureka:
@@ -17,9 +17,9 @@ spring:
   datasource:
     url: jdbc:h2:file:./info;DB_CLOSE_ON_EXIT=FALSE
     driverClassName: org.h2.Driver
-    username: root
+    username: sa
     password: 123
-#    data: classpath:import.sql
+    data: classpath:import.sql
   jpa:
       database-platform: org.hibernate.dialect.H2Dialect
       hibernate:

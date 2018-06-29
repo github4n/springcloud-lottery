@@ -35,3 +35,75 @@
 | lottery-order     | 8083 | 订单管理     |
 | lottery-res       | 8084 | 静态资源服务 |
 
+
+
+###服务消费者开发步骤:
+
+- 1.添加依赖
+
+```
+compile('org.springframework.cloud:spring-cloud-starter-eureka')
+```
+
+- 2.启动类上添加注解
+
+```java
+//代表可被发现的客户端
+@EnableDiscoveryClient
+@SpringBootApplication
+public class InfoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(InfoApplication.class, args);
+    }
+}
+```
+
+- 3.在bootstrap.yml中给服务命名
+
+```yml
+spring:
+  application:
+    name: info-service
+```
+
+- 4.设置端口和全文路径
+
+```
+server:
+  port: 8081
+  context-path: /info
+```
+
+
+
+- 5.客户端发现配置
+
+```yml
+#开发环境dev
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    
+#生产环境prod
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+```
+
+- 6.不同环境使用不同的配置
+
+  - application.yml
+
+  ```
+  spring:
+    profiles:
+      active: dev
+  ```
+
+  - application-dev.yml:	开发环境
+  - application-prod.yml:  生产环境
