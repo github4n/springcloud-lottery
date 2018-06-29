@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="info" external.linked.project.path="$MODULE_DIR$/../../lottery-info" external.root.project.path="$MODULE_DIR$/../../lottery-info" external.system.id="GRADLE" external.system.module.group="com.itheima.lottery" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../lottery-info">
+      <excludeFolder url="file://$MODULE_DIR$/../../lottery-info/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../lottery-info/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../lottery-info/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

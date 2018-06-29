@@ -1,0 +1,2737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3641e78-5511-4619-b95e-49e6d7276877" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/lottery-info/.gradle/" />
+    <ignored path="$PROJECT_DIR$/lottery-info/build/" />
+    <ignored path="$PROJECT_DIR$/lottery-info/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/lottery-user/.gradle/" />
+    <ignored path="$PROJECT_DIR$/lottery-user/build/" />
+    <ignored path="$PROJECT_DIR$/lottery-user/out/" />
+    <ignored path="$PROJECT_DIR$/lottery-order/.gradle/" />
+    <ignored path="$PROJECT_DIR$/lottery-order/build/" />
+    <ignored path="$PROJECT_DIR$/lottery-order/out/" />
+    <ignored path="$PROJECT_DIR$/lottery-res/.gradle/" />
+    <ignored path="$PROJECT_DIR$/lottery-res/build/" />
+    <ignored path="$PROJECT_DIR$/lottery-res/out/" />
+    <ignored path="$PROJECT_DIR$/lottery-gateway/.gradle/" />
+    <ignored path="$PROJECT_DIR$/lottery-gateway/build/" />
+    <ignored path="$PROJECT_DIR$/lottery-gateway/out/" />
+    <ignored path="$PROJECT_DIR$/lottery-discovery/.gradle/" />
+    <ignored path="$PROJECT_DIR$/lottery-discovery/build/" />
+    <ignored path="$PROJECT_DIR$/lottery-discovery/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lottery-discovery">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lottery-gateway">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lottery-info">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lottery-order">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lottery-res">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/lottery-user">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="info" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>//</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/**</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="D:\Program Files\gradle-4.8" />
+        <entry key="$PROJECT_DIR$/lottery-discovery" value="D:\Program Files\gradle-4.8" />
+        <entry key="$PROJECT_DIR$/lottery-gateway" value="D:\Program Files\gradle-4.8" />
+        <entry key="$PROJECT_DIR$/lottery-info" value="D:\Program Files\gradle-4.8" />
+        <entry key="$PROJECT_DIR$/lottery-order" value="D:\Program Files\gradle-4.8" />
+        <entry key="$PROJECT_DIR$/lottery-res" value="D:\Program Files\gradle-4.8" />
+        <entry key="$PROJECT_DIR$/lottery-user" value="D:\Program Files\gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+        <entry key="$PROJECT_DIR$/lottery-discovery" value="4.8" />
+        <entry key="$PROJECT_DIR$/lottery-gateway" value="4.8" />
+        <entry key="$PROJECT_DIR$/lottery-info" value="4.8" />
+        <entry key="$PROJECT_DIR$/lottery-order" value="4.8" />
+        <entry key="$PROJECT_DIR$/lottery-res" value="4.8" />
+        <entry key="$PROJECT_DIR$/lottery-user" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="info" />
+              <option name="path" value="$PROJECT_DIR$/lottery-info" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="info" />
+                <option name="path" value="$PROJECT_DIR$/lottery-info" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lottery-discovery" />
+              <option name="path" value="$PROJECT_DIR$/lottery-discovery" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lottery-discovery" />
+                <option name="path" value="$PROJECT_DIR$/lottery-discovery" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lottery-gateway" />
+              <option name="path" value="$PROJECT_DIR$/lottery-gateway" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lottery-gateway" />
+                <option name="path" value="$PROJECT_DIR$/lottery-gateway" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lottery-order" />
+              <option name="path" value="$PROJECT_DIR$/lottery-order" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lottery-order" />
+                <option name="path" value="$PROJECT_DIR$/lottery-order" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lottery-res" />
+              <option name="path" value="$PROJECT_DIR$/lottery-res" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lottery-res" />
+                <option name="path" value="$PROJECT_DIR$/lottery-res" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lottery-user" />
+              <option name="path" value="$PROJECT_DIR$/lottery-user" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lottery-user" />
+                <option name="path" value="$PROJECT_DIR$/lottery-user" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="springcloud-lottery" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="springcloud-lottery" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'springcloud-lottery'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'springcloud-lottery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'springcloud-lottery'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'springcloud-lottery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'springcloud-lottery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'springcloud-lottery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'springcloud-lottery'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'springcloud-lottery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'springcloud-lottery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-discovery">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'lottery-discovery'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'lottery-discovery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'lottery-discovery'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'lottery-discovery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'lottery-discovery'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'lottery-discovery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'lottery-discovery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'lottery-discovery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'lottery-discovery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'lottery-discovery'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-gateway">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'lottery-gateway'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'lottery-gateway'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'lottery-gateway'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'lottery-gateway'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'lottery-gateway'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'lottery-gateway'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'lottery-gateway'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'lottery-gateway'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'lottery-gateway'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'lottery-gateway'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-gateway" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-info">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'info'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'info'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'info'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-info" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-order">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'lottery-order'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'lottery-order'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'lottery-order'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'lottery-order'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'lottery-order'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'lottery-order'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'lottery-order'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'lottery-order'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'lottery-order'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'lottery-order'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-order" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-res">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'lottery-res'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'lottery-res'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'lottery-res'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'lottery-res'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'lottery-res'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'lottery-res'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'lottery-res'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'lottery-res'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'lottery-res'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'lottery-res'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-user">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'lottery-user'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'lottery-user'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'lottery-user'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'lottery-user'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'lottery-user'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'lottery-user'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'lottery-user'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'lottery-user'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'lottery-user'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'lottery-user'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-user" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1530273085687" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/lottery-discovery" value="4590821908406" />
+        <entry key="$PROJECT_DIR$/lottery-discovery/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/lottery-discovery/build.gradle" value="3882158246" />
+        <entry key="$PROJECT_DIR$/lottery-discovery/settings.gradle" value="3997236020" />
+        <entry key="$PROJECT_DIR$/lottery-gateway" value="4590821459232" />
+        <entry key="$PROJECT_DIR$/lottery-gateway/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/lottery-gateway/build.gradle" value="3985371902" />
+        <entry key="$PROJECT_DIR$/lottery-gateway/settings.gradle" value="2783948235" />
+        <entry key="$PROJECT_DIR$/lottery-info" value="4590799426396" />
+        <entry key="$PROJECT_DIR$/lottery-info/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/lottery-info/build.gradle" value="15304602" />
+        <entry key="$PROJECT_DIR$/lottery-info/settings.gradle" value="3612058945" />
+        <entry key="$PROJECT_DIR$/lottery-order" value="4590820325765" />
+        <entry key="$PROJECT_DIR$/lottery-order/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/lottery-order/build.gradle" value="1171241647" />
+        <entry key="$PROJECT_DIR$/lottery-order/settings.gradle" value="3510585243" />
+        <entry key="$PROJECT_DIR$/lottery-res" value="4590821129345" />
+        <entry key="$PROJECT_DIR$/lottery-res/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/lottery-res/build.gradle" value="1727373073" />
+        <entry key="$PROJECT_DIR$/lottery-res/settings.gradle" value="3716391315" />
+        <entry key="$PROJECT_DIR$/lottery-user" value="4590820084479" />
+        <entry key="$PROJECT_DIR$/lottery-user/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/lottery-user/build.gradle" value="1171241647" />
+        <entry key="$PROJECT_DIR$/lottery-user/settings.gradle" value="115783993" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="springcloud-lottery" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-discovery">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/lottery-discovery">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.3.RELEASE/27c8cd6132784dd83e8c84ad14b603a08ed317e2/spring-boot-gradle-plugin-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.3.RELEASE/25d1d37146bce7cc585425f635601a2ba00c0200/spring-boot-loader-tools-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.7.RELEASE/54b731178d81e66eca9623df772ff32718208137/spring-core-5.0.7.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.7.RELEASE/699016ddf454c2c167d9f84ae5777eccadf54728/spring-jcl-5.0.7.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/lottery-discovery" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="lottery-discovery" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/lottery-discovery/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/lottery-discovery/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-gateway">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/lottery-gateway">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.3.RELEASE/27c8cd6132784dd83e8c84ad14b603a08ed317e2/spring-boot-gradle-plugin-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.3.RELEASE/25d1d37146bce7cc585425f635601a2ba00c0200/spring-boot-loader-tools-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.7.RELEASE/54b731178d81e66eca9623df772ff32718208137/spring-core-5.0.7.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.7.RELEASE/699016ddf454c2c167d9f84ae5777eccadf54728/spring-jcl-5.0.7.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/lottery-gateway" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="lottery-gateway" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/lottery-gateway/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/lottery-gateway/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-info">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/lottery-info">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.14.RELEASE/ee8d9e82b1417c0f070e26117a1f9049745fa875/spring-boot-gradle-plugin-1.5.14.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.14.RELEASE/6e19c58be52f21bf1cfc2a0d83bd02cd1f0b0a4e/spring-boot-loader-tools-1.5.14.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.18.RELEASE/4acbce682c3dfe38181d57b7e0792e2cc21e4f77/spring-core-4.3.18.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/lottery-info" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="info" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/lottery-info/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/lottery-info/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-order">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/lottery-order">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.3.RELEASE/27c8cd6132784dd83e8c84ad14b603a08ed317e2/spring-boot-gradle-plugin-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.3.RELEASE/25d1d37146bce7cc585425f635601a2ba00c0200/spring-boot-loader-tools-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.7.RELEASE/54b731178d81e66eca9623df772ff32718208137/spring-core-5.0.7.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.7.RELEASE/699016ddf454c2c167d9f84ae5777eccadf54728/spring-jcl-5.0.7.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/lottery-order" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="lottery-order" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/lottery-order/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/lottery-order/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-res">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/lottery-res">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.3.RELEASE/27c8cd6132784dd83e8c84ad14b603a08ed317e2/spring-boot-gradle-plugin-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.3.RELEASE/25d1d37146bce7cc585425f635601a2ba00c0200/spring-boot-loader-tools-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.7.RELEASE/54b731178d81e66eca9623df772ff32718208137/spring-core-5.0.7.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.7.RELEASE/699016ddf454c2c167d9f84ae5777eccadf54728/spring-jcl-5.0.7.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/lottery-res" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="lottery-res" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/lottery-res/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/lottery-res/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lottery-user">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/lottery-user">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.3.RELEASE/27c8cd6132784dd83e8c84ad14b603a08ed317e2/spring-boot-gradle-plugin-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.3.RELEASE/25d1d37146bce7cc585425f635601a2ba00c0200/spring-boot-loader-tools-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.7.RELEASE/54b731178d81e66eca9623df772ff32718208137/spring-core-5.0.7.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.7.RELEASE/699016ddf454c2c167d9f84ae5777eccadf54728/spring-jcl-5.0.7.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/lottery-user" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="lottery-user" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/Program Files/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/lottery-user/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/lottery-user/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/kotlin_lottery" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/kotlin_springboot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/myblog-副本/blog-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/myblog/blog-auth" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/myblog/blog-blog" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/myblog/blog-prototype" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/myblog/blog-role" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/myblog/blog-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SpringBootStudy/myblog/blog-user" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/lottery-discovery" value="IMPORT" />
+        <entry key="$PROJECT_DIR$/lottery-gateway" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/lottery-info" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/lottery-order" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/lottery-res" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/lottery-user" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../myblog" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../myblog/blog-prototype" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../myblog/blog-user" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spring" value="PREVIEW" />
+        <entry key="F:/6_Git/file-server" value="PREVIEW" />
+        <entry key="F:/6_Git/server" value="PREVIEW" />
+        <entry key="F:/8_Git/mongodb-file-server" value="PREVIEW" />
+        <entry key="F:/9_openSource/springframework4.1" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lottery-info/src/test/java/com/mz/info/InfoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/enitity/PrizeGrade.java" />
+        <option value="$PROJECT_DIR$/lottery-info/build.gradle" />
+        <option value="$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/repository/HistoryRepository.java" />
+        <option value="$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/controller/InfoController.java" />
+        <option value="$PROJECT_DIR$/lottery-info/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lottery-info/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/enitity/BallHistory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Download\repository" />
+        <option name="mavenHome" value="D:/Program Files/maven" />
+        <option name="userSettingsFile" value="D:\Program Files\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lottery-discovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="E:/myandroid/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lottery/microservice-user" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-info\src\main\resources" />
+      <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-info" />
+      <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-info\src\main\java\com\mz\info" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.InfoApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="InfoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="info_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mz.info.InfoApplication" />
+    </configuration>
+    <configuration name="LotteryDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lottery-discovery_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mz.LotteryDiscoveryApplication" />
+    </configuration>
+    <configuration name="LotteryGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lottery-gateway_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mz.LotteryGatewayApplication" />
+    </configuration>
+    <configuration name="LotteryOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lottery-order_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mz.LotteryOrderApplication" />
+    </configuration>
+    <configuration name="LotteryResApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lottery-res_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mz.LotteryResApplication" />
+    </configuration>
+    <configuration name="LotteryUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lottery-user_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mz.LotteryUserApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.InfoApplication" />
+      <item itemvalue="Spring Boot.LotteryUserApplication" />
+      <item itemvalue="Spring Boot.LotteryOrderApplication" />
+      <item itemvalue="Spring Boot.LotteryResApplication" />
+      <item itemvalue="Spring Boot.LotteryGatewayApplication" />
+      <item itemvalue="Spring Boot.LotteryDiscoveryApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ThinkPad\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3641e78-5511-4619-b95e-49e6d7276877" name="Default" comment="" />
+      <created>1530254441583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530254441583</updated>
+      <workItem from="1530254443499" duration="8133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8133000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32890856" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3293944" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890856" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33038348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966533" />
+      <window_info anchor="bottom" id="Problems" />
+      <window_info anchor="right" id="Bean Validation" weight="0.3299866" />
+      <window_info id="Web" side_tool="true" />
+      <window_info anchor="right" id="Gradle" weight="0.32931727" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lottery-info/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/InfoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/test/java/com/mz/info/InfoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/enitity/PrizeGrade.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/repository/HistoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/resources/import.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/controller/InfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/enitity/BallHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lottery-info</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-netflix-core:1.4.4.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.4.RELEASE/6624e5b3774ef371ce86a2348dd8e1b86f883122/spring-cloud-netflix-core-1.4.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-core/1.4.4.RELEASE/31dcf24117701eb988e96a732ec289fdaa1ba1a7/spring-cloud-netflix-core-1.4.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

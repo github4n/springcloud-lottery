@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/info.iml" filepath="$PROJECT_DIR$/.idea/modules/info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/info_main.iml" filepath="$PROJECT_DIR$/.idea/modules/info_main.iml" group="info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/info_test.iml" filepath="$PROJECT_DIR$/.idea/modules/info_test.iml" group="info" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-discovery/lottery-discovery.iml" filepath="$PROJECT_DIR$/lottery-discovery/lottery-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-discovery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-discovery_main.iml" group="lottery-discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-discovery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-discovery_test.iml" group="lottery-discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-gateway_main.iml" group="lottery-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-gateway_test.iml" group="lottery-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-info/lottery-info.iml" filepath="$PROJECT_DIR$/lottery-info/lottery-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-order/lottery-order.iml" filepath="$PROJECT_DIR$/lottery-order/lottery-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-order_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-order_main.iml" group="lottery-order" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-order_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-order_test.iml" group="lottery-order" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-res/lottery-res.iml" filepath="$PROJECT_DIR$/lottery-res/lottery-res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-res_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-res_main.iml" group="lottery-res" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-res_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-res_test.iml" group="lottery-res" />
+      <module fileurl="file://$PROJECT_DIR$/lottery-user/lottery-user.iml" filepath="$PROJECT_DIR$/lottery-user/lottery-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-user_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-user_main.iml" group="lottery-user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lottery-user_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lottery-user_test.iml" group="lottery-user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud-lottery.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud-lottery.iml" />
+    </modules>
+  </component>
+</project>

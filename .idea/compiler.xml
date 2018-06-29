@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="info_main" target="1.8" />
+      <module name="info_test" target="1.8" />
+      <module name="lottery-discovery_main" target="1.8" />
+      <module name="lottery-discovery_test" target="1.8" />
+      <module name="lottery-gateway_main" target="1.8" />
+      <module name="lottery-gateway_test" target="1.8" />
+      <module name="lottery-order_main" target="1.8" />
+      <module name="lottery-order_test" target="1.8" />
+      <module name="lottery-res_main" target="1.8" />
+      <module name="lottery-res_test" target="1.8" />
+      <module name="lottery-user_main" target="1.8" />
+      <module name="lottery-user_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
