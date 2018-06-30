@@ -1,4 +1,4 @@
-package com.mz.info.enitity;
+package com.mz.info.entity;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
 package com.mz.info.controller;
 
-import com.mz.info.enitity.BallHistory;
+import com.mz.info.entity.BallHistory;
 import com.mz.info.repository.HistoryRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,6 +10,9 @@ import org.springframework.data.domain.Sort;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * @author mz
+ */
 @RestController
 public class InfoController {
 

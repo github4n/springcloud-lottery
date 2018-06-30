@@ -1,6 +1,6 @@
 package com.mz.info.repository;
 
-import com.mz.info.enitity.BallHistory;
+import com.mz.info.entity.BallHistory;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
