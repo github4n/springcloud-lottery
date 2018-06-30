@@ -1,0 +1,3 @@
+2018-06-30 09:13:56 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT * FROM ORDERS ORDERS ORDERS[*] ORDER_ITEM ORDER_ITEM"; SQL statement:
+SELECT * FROM ORDERS ORDERS ORDERS ORDER_ITEM ORDER_ITEM [42000-196]
