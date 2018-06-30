@@ -75,8 +75,6 @@ server:
   context-path: /info
 ```
 
-
-
 - 5.客户端发现配置
 
 ```yml
@@ -132,3 +130,49 @@ spring:
 
 - 8.resources中添加sql脚本
   - import.sql
+
+### 注册中心编写步骤:
+
+- 1.添加依赖
+
+```
+compile('org.springframework.cloud:spring-cloud-starter-eureka-server')
+```
+
+- 2.添加注解
+
+```
+//声明此服务为注册中心
+@EnableEurekaServer
+@SpringBootApplication
+public class MicroserviceDiscoveryApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MicroserviceDiscoveryApplication.class, args);
+    }
+}
+```
+
+- 3.服务命名bootstrap.yml
+
+```java
+spring:
+  application:
+    name: discovery-servcie
+```
+
+- 4.application.yml
+
+```
+server:
+  port: 8761
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+```
+
+
+

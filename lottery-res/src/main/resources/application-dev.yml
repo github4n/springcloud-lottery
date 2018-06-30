@@ -1,0 +1,15 @@
+server:
+  port: 8084
+  context-path: /res
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+
+spring:
+  thymeleaf:
+    cache: false
+    encoding: UTF-8
+    content-type: text/html
+    mode: LEGACYHTML5

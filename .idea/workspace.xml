@@ -2,39 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3641e78-5511-4619-b95e-49e6d7276877" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/entity/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/repository/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/vo/ResponseVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lottery-order/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_1_4_197.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_2_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_22_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_2_0_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_5_0_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lottery-order_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lottery-order_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/lottery-order_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lottery-order_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-discovery/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-discovery/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/0.9aadab26.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/1.78a32a26.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/2.92990169.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/3.b0d9804b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/4.89d63114.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/5.edf759b6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/6.138b971b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/7.421e2525.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/8.f5ef7389.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/9.972d25f3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/app.81061e43.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/css/chunk-vendors.ba6c0e7d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/img/1.c1dc8f6b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/img/2.1f242043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/img/3.0f45ebeb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/img/icon.10bc2480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/0.cab8b2d0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/0.cab8b2d0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/1.f37a5722.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/1.f37a5722.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/2.edb41977.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/2.edb41977.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/3.4658c376.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/3.4658c376.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/4.6ba1c7c0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/4.6ba1c7c0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/5.d4776fcd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/5.d4776fcd.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/6.66f9f966.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/6.66f9f966.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/7.dce871f1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/7.dce871f1.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/8.d48a30a0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/8.d48a30a0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/9.65e5f2e6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/9.65e5f2e6.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/app.12a43bb0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/app.12a43bb0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/chunk-vendors.a5024d14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lottery-res/src/main/resources/static/js/chunk-vendors.a5024d14.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_attoparser_attoparser_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_freemarker_2_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_support_5_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring5_3_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lottery-discovery_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lottery-discovery_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lottery-discovery_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lottery-discovery_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lottery-res_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lottery-res_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/lottery-res_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/lottery-res_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lottery-order/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lottery-order/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/LotteryOrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/LotteryOrderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lottery-order/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lottery-user/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lottery-user/src/main/resources/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/user.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery-discovery/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lottery-discovery/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery-discovery/src/main/java/com/mz/LotteryDiscoveryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lottery-discovery/src/main/java/com/mz/LotteryDiscoveryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery-discovery/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery-res/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lottery-res/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery-res/src/main/java/com/mz/LotteryResApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lottery-res/src/main/java/com/mz/LotteryResApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottery-res/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/lottery-info/.gradle/" />
     <ignored path="$PROJECT_DIR$/lottery-info/build/" />
@@ -126,11 +168,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LotteryOrderApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lottery-order/src/main/java/com/mz/LotteryOrderApplication.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lottery-discovery/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="31" column="75" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LotteryDiscoveryApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lottery-discovery/src/main/java/com/mz/LotteryDiscoveryApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lottery-discovery/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -429,11 +489,6 @@
                 <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
-                <option name="name" value="bootJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Generates the Eclipse classpath file." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
                 <option name="name" value="eclipseClasspath" />
@@ -473,12 +528,16 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependency management declared in root project 'lottery-discovery'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
                 <option name="name" value="dependencyManagement" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
                 <option name="name" value="bootRun" />
               </ExternalTaskPojo>
@@ -541,6 +600,10 @@
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
                 <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-discovery" />
+                <option name="name" value="findMainClass" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
@@ -1209,11 +1272,6 @@
                 <option name="name" value="javadoc" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
-                <option name="name" value="bootJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Generates the Eclipse classpath file." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
                 <option name="name" value="eclipseClasspath" />
@@ -1258,7 +1316,12 @@
                 <option name="name" value="dependencyManagement" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
                 <option name="name" value="bootRun" />
               </ExternalTaskPojo>
@@ -1321,6 +1384,10 @@
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
                 <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/lottery-res" />
+                <option name="name" value="findMainClass" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
@@ -1543,9 +1610,9 @@
       <map>
         <entry key="$PROJECT_DIR$" value="1530273085687" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/lottery-discovery" value="4590821908406" />
+        <entry key="$PROJECT_DIR$/lottery-discovery" value="4590879144637" />
         <entry key="$PROJECT_DIR$/lottery-discovery/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/lottery-discovery/build.gradle" value="3882158246" />
+        <entry key="$PROJECT_DIR$/lottery-discovery/build.gradle" value="2508918228" />
         <entry key="$PROJECT_DIR$/lottery-discovery/settings.gradle" value="3997236020" />
         <entry key="$PROJECT_DIR$/lottery-gateway" value="4590821459232" />
         <entry key="$PROJECT_DIR$/lottery-gateway/.gradle" value="0" />
@@ -1555,13 +1622,13 @@
         <entry key="$PROJECT_DIR$/lottery-info/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/lottery-info/build.gradle" value="15304602" />
         <entry key="$PROJECT_DIR$/lottery-info/settings.gradle" value="3612058945" />
-        <entry key="$PROJECT_DIR$/lottery-order" value="4590867234628" />
+        <entry key="$PROJECT_DIR$/lottery-order" value="4590914943408" />
         <entry key="$PROJECT_DIR$/lottery-order/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/lottery-order/build.gradle" value="3639108317" />
         <entry key="$PROJECT_DIR$/lottery-order/settings.gradle" value="3510585243" />
-        <entry key="$PROJECT_DIR$/lottery-res" value="4590821129345" />
+        <entry key="$PROJECT_DIR$/lottery-res" value="4590878435331" />
         <entry key="$PROJECT_DIR$/lottery-res/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/lottery-res/build.gradle" value="1727373073" />
+        <entry key="$PROJECT_DIR$/lottery-res/build.gradle" value="3974444638" />
         <entry key="$PROJECT_DIR$/lottery-res/settings.gradle" value="3716391315" />
         <entry key="$PROJECT_DIR$/lottery-user" value="4590911468177" />
         <entry key="$PROJECT_DIR$/lottery-user/.gradle" value="0" />
@@ -1682,12 +1749,11 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.3.RELEASE/27c8cd6132784dd83e8c84ad14b603a08ed317e2/spring-boot-gradle-plugin-2.0.3.RELEASE.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.3.RELEASE/25d1d37146bce7cc585425f635601a2ba00c0200/spring-boot-loader-tools-2.0.3.RELEASE.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.7.RELEASE/54b731178d81e66eca9623df772ff32718208137/spring-core-5.0.7.RELEASE.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.7.RELEASE/699016ddf454c2c167d9f84ae5777eccadf54728/spring-jcl-5.0.7.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.3.RELEASE/1d9619dce88e2b51b659717df72a26effda23874/spring-boot-gradle-plugin-1.5.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.3.RELEASE/c80ed6045c80052c3882bf4994384efe99994c81/spring-boot-loader-tools-1.5.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.2.RELEASE/f7694785efdcb2fe67cd67c40b872010a36a9de5/dependency-management-plugin-1.0.2.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.8.RELEASE/cce6c251249e48f0a86aa578c2a0e262efa5a1e0/spring-core-4.3.8.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/lottery-discovery" />
@@ -2124,12 +2190,11 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.3.RELEASE/27c8cd6132784dd83e8c84ad14b603a08ed317e2/spring-boot-gradle-plugin-2.0.3.RELEASE.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.3.RELEASE/25d1d37146bce7cc585425f635601a2ba00c0200/spring-boot-loader-tools-2.0.3.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.14.RELEASE/ee8d9e82b1417c0f070e26117a1f9049745fa875/spring-boot-gradle-plugin-1.5.14.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.14.RELEASE/6e19c58be52f21bf1cfc2a0d83bd02cd1f0b0a4e/spring-boot-loader-tools-1.5.14.RELEASE.jar" />
                             <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.5.RELEASE/3589987a66349bdc10b18c6c4a5463ffd084c908/dependency-management-plugin-1.0.5.RELEASE.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.7.RELEASE/54b731178d81e66eca9623df772ff32718208137/spring-core-5.0.7.RELEASE.jar" />
-                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.7.RELEASE/699016ddf454c2c167d9f84ae5777eccadf54728/spring-jcl-5.0.7.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.18.RELEASE/4acbce682c3dfe38181d57b7e0792e2cc21e4f77/spring-core-4.3.18.RELEASE.jar" />
+                            <option value="D:/Program Files/gradle-4.8/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/lottery-res" />
@@ -2401,6 +2466,12 @@
         <option value="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/repository/OrderRepository.java" />
         <option value="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/lottery-order/src/main/java/com/mz/LotteryOrderApplication.java" />
+        <option value="$PROJECT_DIR$/lottery-res/src/main/java/com/mz/LotteryResApplication.java" />
+        <option value="$PROJECT_DIR$/lottery-res/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/lottery-res/build.gradle" />
+        <option value="$PROJECT_DIR$/lottery-res/src/main/resources/application-prod.yml" />
+        <option value="$PROJECT_DIR$/lottery-discovery/build.gradle" />
+        <option value="$PROJECT_DIR$/lottery-discovery/src/main/java/com/mz/LotteryDiscoveryApplication.java" />
       </list>
     </option>
   </component>
@@ -2454,47 +2525,28 @@
             <path>
               <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lottery-order" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lottery-discovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lottery-order" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lottery-discovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lottery-order" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lottery-order" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lottery-discovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lottery-order" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="lottery-discovery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-lottery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-lottery" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lottery-order" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mz" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2533,11 +2585,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-discovery\src\main\resources" />
+      <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-res\src\main\resources" />
       <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-order\src\main\resources" />
       <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-user\src\main\resources" />
       <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-info\src\main\resources" />
-      <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-info" />
-      <recent name="F:\2_server\java_web_pro\SpringCloudStudy\springcloud-lottery\lottery-info\src\main\java\com\mz\info" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2656,12 +2708,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530254441583</updated>
       <workItem from="1530254443499" duration="17649000" />
-      <workItem from="1530318638811" duration="2495000" />
+      <workItem from="1530318638811" duration="4390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20144000" />
+    <option name="totallyTimeSpent" value="22039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -2713,61 +2765,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lottery-info/src/main/java/com/mz/info/InfoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lottery-user/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lottery-user/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lottery-user/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lottery-user/src/main/java/com/mz/UserApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lottery-user/src/main/java/com/mz/vo/ResponseVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lottery-user/src/main/java/com/mz/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lottery-user/src/main/java/com/mz/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -3071,10 +3068,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-res/src/main/resources/static/js/0.cab8b2d0.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-res/src/main/java/com/mz/LotteryResApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lottery-order/src/main/java/com/mz/LotteryOrderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-res/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-res/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-res/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-res/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-res/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-discovery/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-discovery/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-discovery/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="31" column="75" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-discovery/src/main/java/com/mz/LotteryDiscoveryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery-discovery/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -3095,7 +3159,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -3130,7 +3194,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lottery-info</last-edited>
+          <last-edited>lottery-res_main|lottery-res</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -3155,6 +3219,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
