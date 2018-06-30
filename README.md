@@ -45,7 +45,7 @@
 compile('org.springframework.cloud:spring-cloud-starter-eureka')
 ```
 
-- 2.启动类上添加注解
+- 2.添加注解
 
 ```java
 //代表可被发现的客户端
@@ -59,7 +59,7 @@ public class InfoApplication {
 }
 ```
 
-- 3.在bootstrap.yml中给服务命名
+- 3.服务命名bootstrap.yml
 
 ```yml
 spring:
@@ -161,7 +161,7 @@ spring:
     name: discovery-servcie
 ```
 
-- 4.application.yml
+- 4.端口设置&服务注册设置application.yml
 
 ```
 server:
@@ -172,6 +172,70 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
 
+```
+
+### 路由服务编写步骤:
+
+- 1.添加依赖
+
+```
+compile('org.springframework.cloud:spring-cloud-starter-eureka')
+compile('org.springframework.cloud:spring-cloud-starter-zuul')
+```
+
+- 2.添加注解
+
+```java
+@EnableDiscoveryClient
+@EnableZuulProxy
+@SpringBootApplication
+public class MicroserviceGatewayApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MicroserviceGatewayApplication.class, args);
+    }
+}
+```
+
+
+
+- 3.服务命名bootstrap.yml
+
+```
+spring:
+  application:
+    name: gateway
+```
+
+- 4.端口设置&注册服务设置&路由设置application.yml
+
+```
+server:
+  port: 80
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+zuul:
+  routes:
+    info.path: /info/**
+    info.serviceId: info-service
+    info.retryable: true
+
+    user.path: /user/**
+    user.serviceId: user-service
+    user.retryable: true
+
+    order.path: /order/**
+    order.serviceId: order-service
+    order.retryable: true
+
+    res.path: /res/**
+    res.serviceId: res-service
+    res.retryable: true
 ```
 
 
